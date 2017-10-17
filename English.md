@@ -1,4 +1,8 @@
 - contiguous  [adj]: sharing a common border.  eg. On the map, every Amtrak station in America's 48 contiguous statues is displayed as a blue circle
 - Impermeable [adj]: Not a liable to be affected by pain or distress. SYN: insusceptible, imperturbable.  eg. Depending on your perspective, people are either increasingly fickle or ever more impermeable to marketing bullshit.
 - Semantic [adj]: Relating to meaning in language or logic. SYN: lingual,semasiological eg. Semantic parsing also ensued over whether the modifer 'meaningful' is significantly (or meaningfully) different from 'significant'.
-
+- oops: said when someone falls or makes a small mistake eg. Oops,I've spelt that wrong
+- diss: [v,informal] to say unkind things about someone you know
+- latent [adj]: (of a quality or statue) existing but not yet developed or manifest. SYN: dormant,quiescent,concealed  eg. Despite her rampantly active social-media life, she suffers from the same fate as so many young urbanites-latent  loneliness in a big city
+- hoodwink [v]: deceive or trick (someone)  SYN: dupe,fool,con   eg.The prison camps were being renamed factories, and the world hoodwicked into buying goods stained with blood...
+- ​
