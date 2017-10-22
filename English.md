@@ -4,5 +4,14 @@
 - oops: said when someone falls or makes a small mistake eg. Oops,I've spelt that wrong
 - diss: [v,informal] to say unkind things about someone you know
 - latent [adj]: (of a quality or statue) existing but not yet developed or manifest. SYN: dormant,quiescent,concealed  eg. Despite her rampantly active social-media life, she suffers from the same fate as so many young urbanites-latent  loneliness in a big city
-- hoodwink [v]: deceive or trick (someone)  SYN: dupe,fool,con   eg.The prison camps were being renamed factories, and the world hoodwicked into buying goods stained with blood...
-- ​
+- hoodwink [v]: deceive or trick (someone)  SYN: dupe, fool, con   eg.The prison camps were being renamed factories, and the world hoodwicked into buying goods stained with blood...
+- livid [adj]: furiously angry SYN: infuriated, irate, fuming  eg. A livid Vladimir Putin minced  no words in his response, calling the downing a 'stab in the back'...
+- toady [v]: Act in an obsequious way SYN: be servile towards, grovel to  eg. Britain's Conservative goverment is accused of sacrificing the steel industry to toady up to China.
+- Caustic [adj]: Sarcastic in a scathing and bitter way SYN: cutting, biting, corrosive  eg. That Mr Johnson, a social liberal but caustic fiscal conservative ... is drawing as many votes from the left as the right is more surprising.
+- Kindle [v]: Arouse or inspire SYN: rouse, awaken, ignite   eg. Consuming ground rhino horn is a cruel and ineffective way to relieve a hangover, break a fever, kindle sexual desire, or heal disease...
+- Inure [v]: Accustom (someone) to something, especially something unpleasant SYN: harden, condition, desensitize  eg. Despite the psychological and physical wounds that sustained terrorist campaigns inflict, societies can become inured to them.
+- Tome [n]: a book, especially a large, heavy, scholarly one SYN: volume, work, opus   eg. It's a tome to which most recent arguments about regulation and economic reform are merely annotations.
+- Corece [v]: persuade (an unwilling person) to do something by using force or threats  SYN: pressure, compel, influence  eg. If gender norms coerce mothers, rather than fathers, into staying at home, then a child-care subsidy would be liberating.
+- Impervious [adj]: Unable to be affected by  SYN: immune to, invulnerable to   eg. The reality is, we can never make our airports, or any other crowded places, impervious to attack. 
+- Scintilla [n]: a tiny trace or spark of a specified quality or feeling  SYN: particle, iota , smidgen   eg. After a scintlla of regret over lost youth, to turn 50 should be to enter the prime of life, with a plenitude of projects and achievements,
+- culpability [n]: responsibility for a fault or wrong SYN: guilt, blame, fault   eg. The public airing of evience gives credence their claims and keeps the mater of the gun industry's culpability in the public spotlight. 
