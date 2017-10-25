@@ -15,3 +15,9 @@
 - Impervious [adj]: Unable to be affected by  SYN: immune to, invulnerable to   eg. The reality is, we can never make our airports, or any other crowded places, impervious to attack. 
 - Scintilla [n]: a tiny trace or spark of a specified quality or feeling  SYN: particle, iota , smidgen   eg. After a scintlla of regret over lost youth, to turn 50 should be to enter the prime of life, with a plenitude of projects and achievements,
 - culpability [n]: responsibility for a fault or wrong SYN: guilt, blame, fault   eg. The public airing of evience gives credence their claims and keeps the mater of the gun industry's culpability in the public spotlight. 
+- tenet [n]: a principle or belief SYN: doctrine, percept, creed  eg. In the western and Burger courts of the 1960s, 1970s and 1980s, religious accommodation was a liberal tenet.
+- Redress [n]: Remedy or compensation for a wrong or grievance  SYN: reparation, restitution, recompense   eg. There must be redress by an independant tribunal for those who have been mistreated.
+- Leaven [v]: Permeate and modify or transform (something) for the better  SYN: infuse, pervade, penetrate  eg.The EU, that most peculiar of institutions, has not yet worked out how to leaven the need for a central authority with the democratic energy of nation-status.
+- calumny [n]: a false and slanderous statement SYN: slander, defmation of character  eg. The Melungeon story has mostly been told in the calumnies and hearsay of outsiders.
+- Aver [n]: state or assert to be the case. SYN: proclaim, announce, make known   eg. As many ladies will aver, different shops and fashion labels appear to have varying definitions of what a 'size 6', say, is.
+- Vernal [adj]: of, in, or approprite to spring  eg. 'It must nearly be summer,' I snickered to myself; such is the vernal regularity of industrial action by controllers across the Channel.
