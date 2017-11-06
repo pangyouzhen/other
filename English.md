@@ -1,4 +1,4 @@
-- contiguous  [adj]: sharing a common border.  eg. On the map, every Amtrak station in America's 48 contiguous statues is displayed as a blue circle
+- contiguous  [adj]: sharing a common border.  eg. On the map, every Amtrak station in America's 48 contiguous statues is displayed as a blue circle. [phrase]: contiguous zone
 - Impermeable [adj]: Not a liable to be affected by pain or distress. SYN: insusceptible, imperturbable.  eg. Depending on your perspective, people are either increasingly fickle or ever more impermeable to marketing bullshit.
 - Semantic [adj]: Relating to meaning in language or logic. SYN: lingual,semasiological eg. Semantic parsing also ensued over whether the modifer 'meaningful' is significantly (or meaningfully) different from 'significant'.
 - oops: said when someone falls or makes a small mistake eg. Oops,I've spelt that wrong
@@ -11,7 +11,7 @@
 - Kindle [v]: Arouse or inspire SYN: rouse, awaken, ignite   eg. Consuming ground rhino horn is a cruel and ineffective way to relieve a hangover, break a fever, kindle sexual desire, or heal disease...
 - Inure [v]: Accustom (someone) to something, especially something unpleasant SYN: harden, condition, desensitize  eg. Despite the psychological and physical wounds that sustained terrorist campaigns inflict, societies can become inured to them.
 - Tome [n]: a book, especially a large, heavy, scholarly one SYN: volume, work, opus   eg. It's a tome to which most recent arguments about regulation and economic reform are merely annotations.
-- Corece [v]: persuade (an unwilling person) to do something by using force or threats  SYN: pressure, compel, influence  eg. If gender norms coerce mothers, rather than fathers, into staying at home, then a child-care subsidy would be liberating.
+- Coerce [v]: persuade (an unwilling person) to do something by using force or threats  SYN: pressure, compel, influence  eg. If gender norms coerce mothers, rather than fathers, into staying at home, then a child-care subsidy would be liberating.
 - Impervious [adj]: Unable to be affected by  SYN: immune to, invulnerable to   eg. The reality is, we can never make our airports, or any other crowded places, impervious to attack. 
 - Scintilla [n]: a tiny trace or spark of a specified quality or feeling  SYN: particle, iota , smidgen   eg. After a scintlla of regret over lost youth, to turn 50 should be to enter the prime of life, with a plenitude of projects and achievements,
 - culpability [n]: responsibility for a fault or wrong SYN: guilt, blame, fault   eg. The public airing of evience gives credence their claims and keeps the mater of the gun industry's culpability in the public spotlight. 
@@ -21,3 +21,8 @@
 - calumny [n]: a false and slanderous statement SYN: slander, defmation of character  eg. The Melungeon story has mostly been told in the calumnies and hearsay of outsiders.
 - Aver [n]: state or assert to be the case. SYN: proclaim, announce, make known   eg. As many ladies will aver, different shops and fashion labels appear to have varying definitions of what a 'size 6', say, is.
 - Vernal [adj]: of, in, or approprite to spring  eg. 'It must nearly be summer,' I snickered to myself; such is the vernal regularity of industrial action by controllers across the Channel.
+- taunt [n]: a remark made in order to anger,wound, or provoke someone. SYN: jeer, gibe, sneer;  eg. But in the past two years taunts have turned into deadly attacks.
+- wanton [adj]: (of a cruel or violent action) deliberate and unprovoked. SYN: malicious, malevolent, spiteful   eg. Over the decades these Muslim non-people, without legal or any other sort of protection, have been the victims of wanton discrimination and violence...
+- purist [n]: a person who insist on absolute adherence to tradtional rules or structures . SYN: pedant, dogmatist, perfectionist. eg. From this purist point of view, there is only one Christian church worthy of the name...  [root]: pure
+- quixotic [adj]: exceedingly idealistic, unrealistic and impractical, SYN: unrealistic, impractical, romantic   eg. In one chapter... the director probes some of the quixotic visionaries driving the digital revolution forward.
+- Wry [adj]: Using or expressing dry, especially mocking, humor SYN: ironic, sardonic, satirical  eg. Catherine Merridale is one of the foremost foreign historians of Russia, combining wry insights with deep sympathy for the human beings...
