@@ -35,4 +35,5 @@
 - muse [n]: A person or peprsonified force who is the source of inspiration for a creative artist  SYN: inspiration, influence, stimulus e.g. Mr Blackwell's mother was Fleming's mistress, muse and supposely the model for Pussy Galore.
 - errant [adj]: erring or straying from the proper course or standards  SYN: offending, guity, culpable  e.g. He could admit the error and fire the errant speechwriter.
 - Abate [v]: Become less intense or widespread SYN: subside, die away, die down  e.g. A broad cash crunch and broken supply chains threaten a sharp enconomic slowdown-albeit one that will abate...
+- bolster [v]: support or strengthen SYN:reinforce,prop up, boost e.g. if the results are confirmed, they will bolster voter's belief in the system. 
 - ​
